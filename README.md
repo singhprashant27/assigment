@@ -1,6 +1,5 @@
 ## prashant_s_application1
 
-Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
 
 ## Description
 
